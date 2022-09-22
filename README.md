@@ -1,16 +1,24 @@
-### Hi there 👋
+### Gabriel Ricardo 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrdevo&color=blue" alt="Profile views" /> </p>
+<br>
 
-<!--
-**GabrielRdev/GabrielRdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná ( UNOPAR ) 
 
-Here are some ideas to get you started:
+- 🔥 Desenvolvedor Front-End Jr em evolução constante
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ▶️ Estudo através de projetos pessoais para consolidar meu aprendizado e conseguir uma oportunidade como desenvolvedor futuramente 
+
+- 👨‍💻 Tecnologias: HTML | CSS | JavaScript | Git e Github
+
+<br><br>
+
+## Contato
+
+<a href="https://codepen.io/gabrieldevp" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabrielrdev-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabrielrdev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
