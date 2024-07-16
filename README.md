@@ -8,7 +8,7 @@
 
 - ▶️ Estudo através de projetos pessoais para consolidar meu aprendizado e conseguir uma oportunidade como desenvolvedor futuramente 
 
-- 👨‍💻 Tecnologias: JavaScript | React | Git e Github |
+- 👨‍💻 Tecnologias: React 
 
 <br><br>
 
