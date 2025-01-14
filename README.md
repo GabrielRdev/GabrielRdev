@@ -4,11 +4,11 @@
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná ( UNOPAR ) 
 
-- 🔥 Desenvolvedor Front-End Jr 
+- 🔥 Análise de Dados
 
-- ▶️ Estudo através de projetos pessoais para consolidar meu aprendizado e conseguir uma oportunidade como desenvolvedor futuramente 
+- ▶️ Estudo através de projetos pessoais para consolidar meu aprendizado e conseguir uma oportunidade futuramente
 
-- 👨‍💻 Tecnologias: React 
+- 👨‍💻 Tecnologias: python,  
 
 <br><br>
 
