@@ -8,7 +8,7 @@
 
 - ▶️ Estudo através de projetos pessoais para consolidar meu aprendizado e conseguir uma oportunidade futuramente
 
-- 👨‍💻 Tecnologias: python,  
+- 👨‍💻 Tecnologias: Python,Matplotlib, Seaborn, Javascript, ReactJs  
 
 <br><br>
 
