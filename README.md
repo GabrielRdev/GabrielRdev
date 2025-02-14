@@ -4,11 +4,11 @@
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná ( UNOPAR ) 
 
-- 🔥 Análise de Dados
+- 🔥 Análise de Dados, Engenharia de Dados
 
 - ▶️ Estudo através de projetos pessoais para consolidar meu aprendizado e conseguir uma oportunidade futuramente
 
-- 👨‍💻 Tecnologias: Python,Matplotlib, Seaborn, Javascript, ReactJs  
+- 👨‍💻 Tecnologias: Python,Javascript, ReactJs, SQLite
 
 <br><br>
 
