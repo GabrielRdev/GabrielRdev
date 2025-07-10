@@ -1,9 +1,8 @@
 ### Gabriel Ricardo 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrdevo&color=blue" alt="Profile views" /> </p>
 <br>
-- 🔭 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná ( UNOPAR ) 
-
-- ▶️ Sou apaixonado por tecnologia. Aqui você vai encontrar projetos e contribuições focadas em Dados.
+ - 🔭 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná ( UNOPAR ) 
+ - ▶️ Sou apaixonado por tecnologia. Aqui você vai encontrar projetos e contribuições focadas em Dados.
 
 
 ## 👨‍💻 Tecnologias que utilizo 
