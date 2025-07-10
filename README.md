@@ -1,16 +1,29 @@
 ### Gabriel Ricardo 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielrdevo&color=blue" alt="Profile views" /> </p>
 <br>
-
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Norte do Paraná ( UNOPAR ) 
 
-- 🔥 Análise de Dados, Engenharia de Dados
+- ▶️ Sou apaixonado por tecnologia. Aqui você vai encontrar projetos e contribuições focadas em Dados.
 
-- ▶️ Estudo através de projetos pessoais para consolidar meu aprendizado e conseguir uma oportunidade futuramente
 
-- 👨‍💻 Tecnologias: Python,Javascript, ReactJs, SQLite
+## 👨‍💻 Tecnologias que utilizo 
+- **Python**
+   Bibliotecas como `pandas`, `numpy`, `scikit-learn`, `statsmodels` para amálise, modelagem e manipulação de dados.
+  
+- **Visualização de Dados** 
+  Uso de bibliotecas como `matplotlib`, `seaborn`, `plotly`, `streamlit` para transformar dados em gráficos claros e interstivos.
+
+- **Banco de Dados (SQL)**
+  Experiência com consultad otimizadas, modelagem relacional e integração entre SQL e Python usando `SQLite`, `PostgreSQL`, `SQLAlchemy`.
 
 <br><br>
+
+## Em constante aprendizado 
+
+Atualmente aprofundando em: 
+- Arquitetura de dados;
+- Fundamentos da engenharia de dados;
+- Ferramentas de Cloud.
 
 ## Contato
 
