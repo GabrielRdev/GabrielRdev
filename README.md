@@ -14,7 +14,7 @@
   Uso de bibliotecas como `matplotlib`, `seaborn`, `plotly`, `streamlit` para transformar dados em gráficos claros e interstivos.
 
 - **Banco de Dados (SQL)**
-  Experiência com consultad otimizadas, modelagem relacional e integração entre SQL e Python usando `SQLite`, `PostgreSQL`, `SQLAlchemy`.
+  Experiência com consultas otimizadas, modelagem relacional e integração entre SQL e Python usando `SQLite`, `PostgreSQL`, `SQLAlchemy`.
 
 <br>
 
