@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Tecnologias que utilizo 
 - **Python**
-   Bibliotecas como `pandas`, `numpy`, `scikit-learn`, `statsmodels` para amálise, modelagem e manipulação de dados.
+   Bibliotecas como `pandas`, `numpy`, `scikit-learn`, `statsmodels` para análise, modelagem, transformação e manipulação de dados.
   
 - **Visualização de Dados** 
   Uso de bibliotecas como `matplotlib`, `seaborn`, `plotly`, `streamlit` para transformar dados em gráficos claros e interstivos.
